@@ -11,7 +11,7 @@ clear all
 set more off
 
 *globals
-global cd "/Users/oscarandresgarnicatoro/Good Business Lab Dropbox/AIJS" 
+global cd "directory" 
 global data "$cd/2_data"
 global output "$cd/3_output"
 global tables "$output/1_tables"
